@@ -1,4 +1,4 @@
-# INTERNSHIP_MANAGEMENT_PORTAL
+# INTERNSHIP_PORTAL_MANAGEMENT
 This is an internship portal management project.
 ![image](https://user-images.githubusercontent.com/56003652/136532233-03059bb8-4fbf-47eb-aa93-4a69bd5a53ea.png)
 ![image](https://user-images.githubusercontent.com/56003652/136532344-55fbd3a8-4652-413f-9582-26f120faeba6.png)
